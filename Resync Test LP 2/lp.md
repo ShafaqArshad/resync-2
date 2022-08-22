@@ -1,4 +1,4 @@
-title: Resync Test Lp 2
+title: Resync Test LP 2
 description: understanding Golang test
 isPremium: true
 isNew: true

@@ -1,6 +1,6 @@
 title: Resync Test Lp 2
 description: understanding Golang test
-isPremium: false
+isPremium: true
 isNew: true
 isAvailable: true
 scenarioCount: 1

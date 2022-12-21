@@ -3,7 +3,7 @@ description: understanding Golang test
 isPremium: true
 isNew: true
 isAvailable: true
-scenarioCount: 1
+scenarioCount: 2
 scenarios:
   - Resync Test 3
 categories:

@@ -4,7 +4,7 @@ scenarios:
     - Resync Premium Scenario
 isPremium: true
 isAvailable: true
-scenarioCount: 2
+scenarioCount: 1
 isNew: true
 categories: 
   - docker

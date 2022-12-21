@@ -6,5 +6,5 @@ isAvailable: true
 scenarioCount: 1
 scenarios:
   - Resync Test 3
-"categories":
-  - Docker
+categories:
+  - docker

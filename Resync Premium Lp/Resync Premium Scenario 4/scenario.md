@@ -7,3 +7,5 @@ isNew: true
 isPremium: true
 isAvailable: true
 level: expert
+assets:
+  - flower.jpg
